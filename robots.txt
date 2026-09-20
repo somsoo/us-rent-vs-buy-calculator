@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://us-rent-vs-buy-calculator.enjoy-onepage.com/sitemap.xml
